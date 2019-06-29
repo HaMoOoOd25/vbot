@@ -1,0 +1,56 @@
+{
+  "1": {
+    "name": "food",
+    "price": 30,
+    "description" : ":meat_on_bone: Feed you hungry falcon!",
+    "type": "inventory"
+  },
+  "2": {
+    "name" : "needles",
+    "price" : 100,
+    "description" : ":syringe: Heal your injured poor falcon.",
+    "type": "inventory"
+  },
+  "3": {
+    "name" : "falcon",
+    "price": 700,
+    "description" : ":eagle: Your friend! Take care of it and it will hunt for you!",
+    "type": "inventory"
+  },
+  "4": {
+    "name": "car",
+    "price": "1400",
+    "description" : ":race_car: Work as a taxi for more Virto",
+    "type": "inventory"
+  },
+  "5": {
+    "name": "Class III Citizen",
+    "price": 500,
+    "description" : ":small_blue_diamond: New color.",
+    "type": "role"
+  },
+  "6": {
+    "name": "Class II Citizen",
+    "price": 2000,
+    "description" : ":large_blue_diamond: Free nickname changing and new color.",
+    "type": "role"
+  },
+  "7": {
+    "name": "Class I Citizen",
+    "price": 3500,
+    "description" : ":diamond_shape_with_a_dot_inside: Attachments are allowed in most text channels. Use external Emotes.",
+    "type": "role"
+  },
+  "8": {
+    "name": "Nickname",
+    "price": "800",
+    "description" : ":credit_card: Get yourself a nickname in our city!",
+    "type": "nickname"
+  },
+  "9": {
+    "name": "Yacht",
+    "price": 5000,
+    "description" : ":cruise_ship: Show off with a cool yacht!",
+    "type": "inventory"
+  }
+}
