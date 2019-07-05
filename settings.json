@@ -1,5 +1,5 @@
 {
-  "mongoDb": "mongodb+srv://admin:31045@chatshitandchill-selso.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoDb": "DB",
   "embedColor" : "#003489",
   "reportChannel" : "583718071156473876",
   "logChannel" : "586287735845814280",
